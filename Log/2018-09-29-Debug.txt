@@ -1,0 +1,66 @@
+﻿17:46:28： 创建连接gggggggggg.
+
+17:46:33： gggggggggg:连接即将关闭：EndpointUnavailable-
+
+17:46:34： 创建连接gggggggggg.
+
+17:46:38： gggggggggg:{touser:'@all',msgtype:'text',text:{content:'ssssssss'}}
+
+17:46:38： 接收的数据{touser:'@all',msgtype:'text',text:{content:'ssssssss'}}
+
+17:50:40： gggggggggg:连接即将关闭：EndpointUnavailable-
+
+17:50:40： 创建连接gggggggggg.
+
+17:50:49： gggggggggg:连接即将关闭：EndpointUnavailable-
+
+17:50:49： 创建连接gggggggggg.
+
+17:51:01： gggggggggg:连接即将关闭：EndpointUnavailable-
+
+17:51:03： 创建连接sssssss.
+
+17:51:30： 创建连接RR.
+
+17:51:33： RR:{touser:'@all',msgtype:'text',text:{content:'sssssssssss'}}
+
+17:51:33： 接收的数据{touser:'@all',msgtype:'text',text:{content:'sssssssssss'}}
+
+17:51:56： RR:{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/dc783cfd-665c-46fd-a68f-8f5196098546.png'}}
+
+17:51:56： 接收的数据{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/dc783cfd-665c-46fd-a68f-8f5196098546.png'}}
+
+17:53:06： sssssss:连接即将关闭：EndpointUnavailable-
+
+17:53:08： 创建连接sssssss.
+
+17:53:30： sssssss:连接即将关闭：EndpointUnavailable-
+
+17:53:30： 创建连接sssssss.
+
+17:53:57： RR:{touser:'@all',msgtype:'text',text:{content:'rrrrrrrrrrrrrrrr'}}
+
+17:53:57： 接收的数据{touser:'@all',msgtype:'text',text:{content:'rrrrrrrrrrrrrrrr'}}
+
+17:54:03： sssssss:{touser:'@all',msgtype:'text',text:{content:'uuuuuuuuuuuuuuu'}}
+
+17:54:03： 接收的数据{touser:'@all',msgtype:'text',text:{content:'uuuuuuuuuuuuuuu'}}
+
+17:55:48： sssssss:{touser:'@all',msgtype:'text',text:{content:'gggggg'}}
+
+17:55:48： 接收的数据{touser:'@all',msgtype:'text',text:{content:'gggggg'}}
+
+17:55:58： 创建连接恩聊几句.
+
+17:56:03： 恩聊几句:{touser:'@all',msgtype:'text',text:{content:'54945'}}
+
+17:56:03： 接收的数据{touser:'@all',msgtype:'text',text:{content:'54945'}}
+
+17:57:32： 恩聊几句:连接即将关闭：EndpointUnavailable-
+
+17:57:36： 创建连接恩聊几句.
+
+17:57:39： 恩聊几句:{touser:'@all',msgtype:'text',text:{content:'options'}}
+
+17:57:39： 接收的数据{touser:'@all',msgtype:'text',text:{content:'options'}}
+

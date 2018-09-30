@@ -1,0 +1,3 @@
+﻿16:57:15： Echo异常The remote party closed the WebSocket connection without completing the close handshake.。
+   at System.Net.WebSockets.ManagedWebSocket.ReceiveAsyncPrivate[TWebSocketReceiveResultGetter,TWebSocketReceiveResult](Memory`1 payloadBuffer, CancellationToken cancellationToken, TWebSocketReceiveResultGetter resultGetter)
+   at Chat.WsUser.Echo() in C:\Users\RR\source\repos\EWS2\4-App\4.0-Basic\Chat\Models\WsUser.cs:line 62

@@ -1,0 +1,362 @@
+﻿16:27:47： 创建连接SS.
+
+16:27:50： SS:{touser:'@all',msgtype:'text',text:{content:'zzzzzzzzzz'}}
+
+16:27:50： 接收的数据{touser:'@all',msgtype:'text',text:{content:'zzzzzzzzzz'}}
+
+16:27:57： SS:{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/fcfe1d84-4cf0-40aa-96fb-3cc494dcad91.jpg'}}
+
+16:27:57： 接收的数据{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/fcfe1d84-4cf0-40aa-96fb-3cc494dcad91.jpg'}}
+
+16:29:21： SS:连接即将关闭：EndpointUnavailable-
+
+16:29:22： 创建连接SS.
+
+16:29:28： SS:{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/7a27d4ca-00e3-4138-84e9-ff77d092dc5a.png'}}
+
+16:29:28： 接收的数据{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/7a27d4ca-00e3-4138-84e9-ff77d092dc5a.png'}}
+
+16:29:36： SS:{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/bb968236-2390-4fdb-8d22-26b705f7d816.jpg'}}
+
+16:29:36： 接收的数据{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/bb968236-2390-4fdb-8d22-26b705f7d816.jpg'}}
+
+16:29:40： SS:{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/f8b725c5-dee8-4f35-8da2-96d988208fa4.png'}}
+
+16:29:40： 接收的数据{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/f8b725c5-dee8-4f35-8da2-96d988208fa4.png'}}
+
+16:30:01： SS:{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/ed7501dd-eab6-42e5-b189-6b0753e5fb87.jpg'}}
+
+16:30:01： 接收的数据{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/ed7501dd-eab6-42e5-b189-6b0753e5fb87.jpg'}}
+
+16:30:11： SS:{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/12e5bfbf-a331-40d8-aff5-4b85f8fc8d51.PNG'}}
+
+16:30:11： 接收的数据{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/12e5bfbf-a331-40d8-aff5-4b85f8fc8d51.PNG'}}
+
+16:32:48： SS:连接即将关闭：EndpointUnavailable-
+
+16:32:49： 创建连接SS.
+
+16:32:53： SS:{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/2483e8c9-9e8c-407a-84c0-88f0243226f5.png'}}
+
+16:32:53： 接收的数据{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/2483e8c9-9e8c-407a-84c0-88f0243226f5.png'}}
+
+16:32:56： SS:{touser:'@all',msgtype:'text',text:{content:'ssssssssssss'}}
+
+16:32:56： 接收的数据{touser:'@all',msgtype:'text',text:{content:'ssssssssssss'}}
+
+16:33:36： SS:连接即将关闭：EndpointUnavailable-
+
+16:33:36： 创建连接SS.
+
+16:33:39： SS:{touser:'@all',msgtype:'text',text:{content:'ssssssss'}}
+
+16:33:39： 接收的数据{touser:'@all',msgtype:'text',text:{content:'ssssssss'}}
+
+16:33:40： SS:连接即将关闭：EndpointUnavailable-
+
+16:33:40： 创建连接SS.
+
+16:33:43： SS:{touser:'@all',msgtype:'text',text:{content:'dddddddd'}}
+
+16:33:43： 接收的数据{touser:'@all',msgtype:'text',text:{content:'dddddddd'}}
+
+16:33:47： SS:{touser:'@all',msgtype:'text',text:{content:'ddddd'}}
+
+16:33:47： 接收的数据{touser:'@all',msgtype:'text',text:{content:'ddddd'}}
+
+16:35:55： SS:{touser:'@all',msgtype:'text',text:{content:'gggg'}}
+
+16:35:55： 接收的数据{touser:'@all',msgtype:'text',text:{content:'gggg'}}
+
+16:35:57： SS:{touser:'@all',msgtype:'text',text:{content:'ggggggggg'}}
+
+16:35:57： 接收的数据{touser:'@all',msgtype:'text',text:{content:'ggggggggg'}}
+
+16:40:14： 创建连接SS.
+
+16:40:17： SS:{touser:'@all',msgtype:'text',text:{content:'ssssssssssssss'}}
+
+16:40:17： 接收的数据{touser:'@all',msgtype:'text',text:{content:'ssssssssssssss'}}
+
+16:40:25： SS:连接即将关闭：EndpointUnavailable-
+
+16:45:38： 创建连接SS.
+
+16:45:45： SS:{touser:'@all',msgtype:'text',text:{content:'ggggg'}}
+
+16:45:45： 接收的数据{touser:'@all',msgtype:'text',text:{content:'ggggg'}}
+
+16:46:20： SS:连接即将关闭：EndpointUnavailable-
+
+16:47:16： 创建连接SS.
+
+16:47:19： SS:{touser:'@all',msgtype:'text',text:{content:'gggggg'}}
+
+16:47:19： 接收的数据{touser:'@all',msgtype:'text',text:{content:'gggggg'}}
+
+16:47:59： SS:连接即将关闭：EndpointUnavailable-
+
+16:48:00： 创建连接SS.
+
+16:48:00： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:48:00： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:48:01： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:48:01： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:48:01： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:48:01： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:48:01： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:48:01： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:48:01： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:48:01： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:48:01： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:48:01： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:48:01： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:48:01： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:48:01： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:48:01： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:48:01： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:48:01： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:48:01： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:48:01： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:48:02： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:48:02： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:49:00： SS:连接即将关闭：EndpointUnavailable-
+
+16:49:01： 创建连接SS.
+
+16:49:04： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:49:04： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:49:14： SS:{touser:'@all',msgtype:'text',text:{content:'ddddddd'}}
+
+16:49:14： 接收的数据{touser:'@all',msgtype:'text',text:{content:'ddddddd'}}
+
+16:49:18： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:49:18： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:50:28： SS:连接即将关闭：EndpointUnavailable-
+
+16:50:28： 创建连接SS.
+
+16:50:31： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:50:31： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:53:02： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:53:02： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:53:02： SS:连接即将关闭：EndpointUnavailable-
+
+16:53:02： 创建连接SS.
+
+16:53:14： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:53:14： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:53:22： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:53:22： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:53:33： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:53:33： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:55:19： SS:连接即将关闭：EndpointUnavailable-
+
+16:55:19： 创建连接SS.
+
+16:55:27： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:55:27： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:55:30： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:55:30： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:56:28： SS:{touser:'@all',msgtype:'text',text:{content:'wwwwwwwwwwww'}}
+
+16:56:28： 接收的数据{touser:'@all',msgtype:'text',text:{content:'wwwwwwwwwwww'}}
+
+16:56:28： SS:连接即将关闭：EndpointUnavailable-
+
+16:56:28： 创建连接SS.
+
+16:56:39： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:56:39： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:56:54： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:56:54： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:58:38： SS:{touser:'@all',msgtype:'text',text:{content:'ffffffff'}}
+
+16:58:38： 接收的数据{touser:'@all',msgtype:'text',text:{content:'ffffffff'}}
+
+16:58:53： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:58:53： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:58:59： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:58:59： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:59:34： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:59:34： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+16:59:34： SS:连接即将关闭：EndpointUnavailable-
+
+16:59:34： 创建连接SS.
+
+17:01:50： SS:连接即将关闭：EndpointUnavailable-
+
+17:01:50： 创建连接SS.
+
+17:02:58： SS:连接即将关闭：EndpointUnavailable-
+
+17:02:59： 创建连接SS.
+
+17:04:34： SS:连接即将关闭：EndpointUnavailable-
+
+17:04:38： 创建连接SS.
+
+17:08:03： SS:连接即将关闭：EndpointUnavailable-
+
+17:08:03： 创建连接SS.
+
+17:08:06： SS:连接即将关闭：EndpointUnavailable-
+
+17:08:06： 创建连接SS.
+
+17:09:16： SS:连接即将关闭：EndpointUnavailable-
+
+17:09:17： 创建连接SS.
+
+17:09:19： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+17:09:19： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+17:14:25： SS:连接即将关闭：EndpointUnavailable-
+
+17:24:51： 创建连接SS.
+
+17:25:09： SS:连接即将关闭：EndpointUnavailable-
+
+17:25:10： 创建连接SS.
+
+17:25:32： SS:连接即将关闭：EndpointUnavailable-
+
+17:25:35： 创建连接SS.
+
+17:28:43： SS:{touser:'@all',msgtype:'text',text:{content:'sssssss'}}
+
+17:28:43： 接收的数据{touser:'@all',msgtype:'text',text:{content:'sssssss'}}
+
+17:29:10： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+17:29:10： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+17:30:11： SS:连接即将关闭：EndpointUnavailable-
+
+17:30:12： 创建连接SS.
+
+17:30:14： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+17:30:14： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+17:30:28： SS:连接即将关闭：EndpointUnavailable-
+
+17:30:28： 创建连接SS.
+
+17:30:51： SS:连接即将关闭：EndpointUnavailable-
+
+17:30:51： 创建连接SS.
+
+17:30:53： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+17:30:53： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+17:31:07： SS:连接即将关闭：EndpointUnavailable-
+
+17:31:07： 创建连接SS.
+
+17:31:09： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+17:31:09： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+17:31:34： SS:连接即将关闭：EndpointUnavailable-
+
+17:31:34： 创建连接SS.
+
+17:31:36： SS:{touser:'@all',msgtype:'text',text:{content:''}}
+
+17:31:36： 接收的数据{touser:'@all',msgtype:'text',text:{content:''}}
+
+17:32:31： SS:连接即将关闭：EndpointUnavailable-
+
+17:32:31： 创建连接SS.
+
+17:32:33： SS:{touser:'@all',msgtype:'text',text:{content:'ssssssssss'}}
+
+17:32:33： 接收的数据{touser:'@all',msgtype:'text',text:{content:'ssssssssss'}}
+
+17:33:09： SS:连接即将关闭：EndpointUnavailable-
+
+17:33:10： 创建连接SS.
+
+17:33:15： SS:{touser:'@all',msgtype:'text',text:{content:'sssssssssss'}}
+
+17:33:15： 接收的数据{touser:'@all',msgtype:'text',text:{content:'sssssssssss'}}
+
+17:33:21： SS:{touser:'@all',msgtype:'text',text:{content:'77777777'}}
+
+17:33:21： 接收的数据{touser:'@all',msgtype:'text',text:{content:'77777777'}}
+
+17:33:50： SS:连接即将关闭：EndpointUnavailable-
+
+17:42:48： SS:连接即将关闭：EndpointUnavailable-
+
+17:42:48： 创建连接SS.
+
+17:43:04： SS:连接即将关闭：EndpointUnavailable-
+
+17:43:04： 创建连接SS.
+
+17:43:13： SS:连接即将关闭：EndpointUnavailable-
+
+17:43:14： 创建连接SS.
+
+17:45:42： SS:连接即将关闭：EndpointUnavailable-
+
+17:45:42： 创建连接SS.
+
+18:06:00： SS:连接即将关闭：EndpointUnavailable-
+
+18:06:01： 创建连接SS.
+

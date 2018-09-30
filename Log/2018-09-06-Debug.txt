@@ -1,0 +1,236 @@
+﻿14:08:11： SS:连接即将关闭：EndpointUnavailable-
+
+14:08:11： 创建连接SS.
+
+14:08:17： SS:连接即将关闭：EndpointUnavailable-
+
+14:08:17： 创建连接SS.
+
+14:47:28： SS:{touser:'@all',msgtype:'text',text:{content:'dddddd'}}
+
+14:47:28： 接收的数据{touser:'@all',msgtype:'text',text:{content:'dddddd'}}
+
+14:47:33： SS:连接即将关闭：EndpointUnavailable-
+
+14:47:33： 创建连接SS.
+
+14:47:35： SS:{touser:'@all',msgtype:'text',text:{content:'jhhhhhhhhhhh'}}
+
+14:47:35： 接收的数据{touser:'@all',msgtype:'text',text:{content:'jhhhhhhhhhhh'}}
+
+14:47:41： SS:{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/2d05af4e-d6d2-47af-8865-9f1172a37b8f.jpg'}}
+
+14:47:41： 接收的数据{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/2d05af4e-d6d2-47af-8865-9f1172a37b8f.jpg'}}
+
+14:48:35： SS:连接即将关闭：EndpointUnavailable-
+
+14:48:35： 创建连接SS.
+
+14:48:36： SS:连接即将关闭：EndpointUnavailable-
+
+14:48:36： 创建连接SS.
+
+14:48:36： SS:连接即将关闭：EndpointUnavailable-
+
+14:48:36： 创建连接SS.
+
+14:48:36： SS:连接即将关闭：EndpointUnavailable-
+
+14:48:36： 创建连接SS.
+
+14:48:38： SS:{touser:'@all',msgtype:'text',text:{content:'chatInputValue'}}
+
+14:48:38： 接收的数据{touser:'@all',msgtype:'text',text:{content:'chatInputValue'}}
+
+14:48:47： SS:连接即将关闭：EndpointUnavailable-
+
+14:53:41： 创建连接RR.
+
+14:53:48： RR:{touser:'@all',msgtype:'text',text:{content:'var userName = $.trim($("#txtUserName").val());             window.localStorage.setItem("username", userName);'}}
+
+14:53:48： 接收的数据{touser:'@all',msgtype:'text',text:{content:'var userName = $.trim($("#txtUserName").val());             window.localStorage.setItem("username", userName);'}}
+
+14:53:53： RR:连接即将关闭：EndpointUnavailable-
+
+14:53:53： 创建连接RR.
+
+14:53:55： RR:{touser:'@all',msgtype:'text',text:{content:'var userName = $.trim($("#txtUserName").val());             window.localStorage.setItem("username", userName);'}}
+
+14:53:55： 接收的数据{touser:'@all',msgtype:'text',text:{content:'var userName = $.trim($("#txtUserName").val());             window.localStorage.setItem("username", userName);'}}
+
+14:54:03： RR:{touser:'@all',msgtype:'text',text:{content:'var userName = $.tri'}}
+
+14:54:03： 接收的数据{touser:'@all',msgtype:'text',text:{content:'var userName = $.tri'}}
+
+14:54:05： RR:{touser:'@all',msgtype:'text',text:{content:'var userName = $.trim($("#txtUserName").val());             window.localStorage.setItem("username", userName);'}}
+
+14:54:05： 接收的数据{touser:'@all',msgtype:'text',text:{content:'var userName = $.trim($("#txtUserName").val());             window.localStorage.setItem("username", userName);'}}
+
+14:54:11： RR:{touser:'@all',msgtype:'text',text:{content:'var userName = $.trim'}}
+
+14:54:11： 接收的数据{touser:'@all',msgtype:'text',text:{content:'var userName = $.trim'}}
+
+14:54:14： RR:{touser:'@all',msgtype:'text',text:{content:'1111'}}
+
+14:54:14： 接收的数据{touser:'@all',msgtype:'text',text:{content:'1111'}}
+
+14:54:53： RR:连接即将关闭：EndpointUnavailable-
+
+14:54:54： 创建连接RR.
+
+14:54:55： RR:{touser:'@all',msgtype:'text',text:{content:'self.chatInputValue('');'}}
+
+14:54:55： 接收的数据{touser:'@all',msgtype:'text',text:{content:'self.chatInputValue('');'}}
+
+14:55:09： RR:{touser:'@all',msgtype:'text',text:{content:'self.chatInputValue('');'}}
+
+14:55:09： 接收的数据{touser:'@all',msgtype:'text',text:{content:'self.chatInputValue('');'}}
+
+14:55:18： RR:{touser:'@all',msgtype:'text',text:{content:'11111111'}}
+
+14:55:18： 接收的数据{touser:'@all',msgtype:'text',text:{content:'11111111'}}
+
+14:55:32： RR:{touser:'@all',msgtype:'text',text:{content:'11111111'}}
+
+14:55:32： 接收的数据{touser:'@all',msgtype:'text',text:{content:'11111111'}}
+
+14:56:37： RR:连接即将关闭：EndpointUnavailable-
+
+14:56:37： 创建连接RR.
+
+14:56:42： RR:{touser:'@all',msgtype:'text',text:{content:'2222222222'}}
+
+14:56:42： 接收的数据{touser:'@all',msgtype:'text',text:{content:'2222222222'}}
+
+14:56:51： RR:{touser:'@all',msgtype:'text',text:{content:'1111111444444444444444'}}
+
+14:56:51： 接收的数据{touser:'@all',msgtype:'text',text:{content:'1111111444444444444444'}}
+
+14:57:00： RR:{touser:'@all',msgtype:'text',text:{content:'111111144444444444444466666666'}}
+
+14:57:00： 接收的数据{touser:'@all',msgtype:'text',text:{content:'111111144444444444444466666666'}}
+
+14:57:51： RR:连接即将关闭：EndpointUnavailable-
+
+14:57:51： 创建连接RR.
+
+14:57:55： RR:{touser:'@all',msgtype:'text',text:{content:'111111111'}}
+
+14:57:55： 接收的数据{touser:'@all',msgtype:'text',text:{content:'111111111'}}
+
+14:58:03： RR:{touser:'@all',msgtype:'text',text:{content:'222222222'}}
+
+14:58:03： 接收的数据{touser:'@all',msgtype:'text',text:{content:'222222222'}}
+
+14:58:07： RR:{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/6133439f-5068-48cb-a386-8b5ab683ef3c.png'}}
+
+14:58:07： 接收的数据{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/6133439f-5068-48cb-a386-8b5ab683ef3c.png'}}
+
+14:58:15： RR:连接即将关闭：EndpointUnavailable-
+
+14:58:17： 创建连接RR.
+
+14:58:19： RR:{touser:'@all',msgtype:'text',text:{content:'$(e.target)[0].value'}}
+
+14:58:19： 接收的数据{touser:'@all',msgtype:'text',text:{content:'$(e.target)[0].value'}}
+
+14:58:23： RR:连接即将关闭：EndpointUnavailable-
+
+14:58:23： 创建连接RR.
+
+14:58:25： RR:{touser:'@all',msgtype:'text',text:{content:'$(e.target)[0].value'}}
+
+14:58:25： 接收的数据{touser:'@all',msgtype:'text',text:{content:'$(e.target)[0].value'}}
+
+14:58:37： RR:连接即将关闭：EndpointUnavailable-
+
+14:58:40： 创建连接SSS.
+
+14:59:05： SSS:{touser:'@all',msgtype:'text',text:{content:'111111'}}
+
+14:59:05： 接收的数据{touser:'@all',msgtype:'text',text:{content:'111111'}}
+
+15:01:44： SSS:连接即将关闭：EndpointUnavailable-
+
+15:01:44： 创建连接SSS.
+
+15:01:44： SSS:连接即将关闭：EndpointUnavailable-
+
+15:01:44： 创建连接SSS.
+
+15:01:45： SSS:连接即将关闭：EndpointUnavailable-
+
+15:01:45： 创建连接SSS.
+
+15:01:45： SSS:连接即将关闭：EndpointUnavailable-
+
+15:01:45： 创建连接SSS.
+
+15:02:14： SSS:连接即将关闭：EndpointUnavailable-
+
+15:02:14： 创建连接SSS.
+
+15:02:55： SSS:连接即将关闭：EndpointUnavailable-
+
+15:02:55： 创建连接SSS.
+
+15:02:59： SSS:连接即将关闭：EndpointUnavailable-
+
+15:03:03： 创建连接eee.
+
+15:03:06： eee:{touser:'@all',msgtype:'text',text:{content:'window.localStorage.getItem('username')'}}
+
+15:03:06： 接收的数据{touser:'@all',msgtype:'text',text:{content:'window.localStorage.getItem('username')'}}
+
+15:03:13： eee:连接即将关闭：EndpointUnavailable-
+
+15:03:14： 创建连接eee.
+
+15:03:14： eee:连接即将关闭：EndpointUnavailable-
+
+15:03:14： 创建连接eee.
+
+15:03:14： eee:连接即将关闭：EndpointUnavailable-
+
+15:03:14： 创建连接eee.
+
+15:03:18： eee:连接即将关闭：EndpointUnavailable-
+
+15:03:21： 创建连接xxxxxxx.
+
+15:03:23： xxxxxxx:{touser:'@all',msgtype:'text',text:{content:'xxxxxxxxxx'}}
+
+15:03:23： 接收的数据{touser:'@all',msgtype:'text',text:{content:'xxxxxxxxxx'}}
+
+15:14:40： xxxxxxx:连接即将关闭：EndpointUnavailable-
+
+15:14:41： 创建连接xxxxxxx.
+
+15:14:43： xxxxxxx:{touser:'@all',msgtype:'text',text:{content:'window.localStorage.getItem('username')'}}
+
+15:14:43： 接收的数据{touser:'@all',msgtype:'text',text:{content:'window.localStorage.getItem('username')'}}
+
+15:14:56： xxxxxxx:连接即将关闭：EndpointUnavailable-
+
+15:14:59： 创建连接ccccccccc.
+
+15:15:01： ccccccccc:{touser:'@all',msgtype:'text',text:{content:'cfffffffffffff'}}
+
+15:15:01： 接收的数据{touser:'@all',msgtype:'text',text:{content:'cfffffffffffff'}}
+
+15:16:02： ccccccccc:连接即将关闭：EndpointUnavailable-
+
+15:16:03： 创建连接ccccccccc.
+
+15:16:04： ccccccccc:{touser:'@all',msgtype:'text',text:{content:'window.localStorage.getItem('username')'}}
+
+15:16:04： 接收的数据{touser:'@all',msgtype:'text',text:{content:'window.localStorage.getItem('username')'}}
+
+15:16:08： ccccccccc:连接即将关闭：EndpointUnavailable-
+
+15:16:11： 创建连接gggggggggg.
+
+15:16:14： gggggggggg:{touser:'@all',msgtype:'text',text:{content:'uuuuuuuuuuuu'}}
+
+15:16:14： 接收的数据{touser:'@all',msgtype:'text',text:{content:'uuuuuuuuuuuu'}}
+

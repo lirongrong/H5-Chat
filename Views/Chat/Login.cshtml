@@ -1,0 +1,21 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div id="body" style="width:500px; margin:150px auto;">
+    <h1 class="h3 mb-3 font-weight-normal">登录聊天室</h1>
+    <label for="inputEmail" class="sr-only">用户名</label>
+    <input type="text" id="txtUserName" class="form-control" placeholder="用户名" required autofocus>
+    <br />
+    <button id="btnLogin" class="btn btn-lg btn-primary btn-block">登录</button>
+    <p class="mt-5 mb-3 text-muted">&copy; ERP 2018-8-31 </p>
+</div>
+@section script
+    {
+    <script type="text/javascript">
+        $("#btnLogin").click(function () {
+            var userName = $.trim($("#txtUserName").val());
+            window.localStorage.setItem("username", userName);
+            location.href = "/chat/";
+        });
+    </script>
+}

@@ -1,0 +1,56 @@
+﻿15:25:40： 创建连接gggggggggg.
+
+15:25:52： gggggggggg:{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/026f4a93-fd97-4d3b-aa67-6396d6f49af9.jpg'}}
+
+15:25:52： 接收的数据{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/026f4a93-fd97-4d3b-aa67-6396d6f49af9.jpg'}}
+
+15:25:52： gggggggggg:{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/b291fadd-0154-4f46-8cc1-f8905d67dfeb.jpg'}}
+
+15:25:52： 接收的数据{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/b291fadd-0154-4f46-8cc1-f8905d67dfeb.jpg'}}
+
+15:26:14： gggggggggg:{touser:'@all',msgtype:'text',text:{content:'11111111'}}
+
+15:26:14： 接收的数据{touser:'@all',msgtype:'text',text:{content:'11111111'}}
+
+15:27:43： gggggggggg:连接即将关闭：EndpointUnavailable-
+
+15:27:43： 创建连接gggggggggg.
+
+15:27:49： gggggggggg:{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/87179b63-e4e4-4ec6-86f5-c0b12f62bd9b.jpg'}}
+
+15:27:49： 接收的数据{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/87179b63-e4e4-4ec6-86f5-c0b12f62bd9b.jpg'}}
+
+15:27:49： gggggggggg:{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/fe1f253e-33e1-4a41-b12a-b34f62a8a38f.jpg'}}
+
+15:27:49： 接收的数据{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/fe1f253e-33e1-4a41-b12a-b34f62a8a38f.jpg'}}
+
+15:42:28： gggggggggg:连接即将关闭：EndpointUnavailable-
+
+15:42:28： 创建连接gggggggggg.
+
+15:42:34： gggggggggg:{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/37847a03-39c0-48aa-845e-6ca5b47813f2.jpg'}}
+
+15:42:34： 接收的数据{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/37847a03-39c0-48aa-845e-6ca5b47813f2.jpg'}}
+
+16:02:03： gggggggggg:连接即将关闭：EndpointUnavailable-
+
+16:05:30： 创建连接gggggggggg.
+
+16:06:29： gggggggggg:连接即将关闭：EndpointUnavailable-
+
+16:06:29： 创建连接gggggggggg.
+
+16:07:03： gggggggggg:连接即将关闭：EndpointUnavailable-
+
+16:07:03： 创建连接gggggggggg.
+
+16:07:11： gggggggggg:{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/c671e9bf-c395-4bcc-b845-62d1595b9e0b.PNG'}}
+
+16:07:11： 接收的数据{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/c671e9bf-c395-4bcc-b845-62d1595b9e0b.PNG'}}
+
+16:07:39： gggggggggg:{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/917f3212-5171-41bb-b829-60345668f990.jpg'}}
+
+16:07:39： 接收的数据{touser:'@all',msgtype:'image',image:{url:'http://img.feiwuwl.com/1/chat/2018/917f3212-5171-41bb-b829-60345668f990.jpg'}}
+
+16:11:45： gggggggggg:连接即将关闭：EndpointUnavailable-
+

@@ -1,0 +1,32 @@
+﻿10:03:17： 创建连接sssssss.
+
+10:03:36： sssssss:连接即将关闭：EndpointUnavailable-
+
+10:03:37： 创建连接sssssss.
+
+10:03:42： sssssss:{touser:'@all',msgtype:'text',text:{content:'8001'}}
+
+10:03:42： 接收的数据{touser:'@all',msgtype:'text',text:{content:'8001'}}
+
+10:08:39： 创建连接.
+
+10:08:39： :null
+
+10:08:39： 接收的数据null
+
+10:09:10： 创建连接sssssss.
+
+10:09:16： sssssss:{touser:'@all',msgtype:'text',text:{content:'ws://localhost:8001'}}
+
+10:09:16： 接收的数据{touser:'@all',msgtype:'text',text:{content:'ws://localhost:8001'}}
+
+10:09:28： sssssss:{touser:'@all',msgtype:'text',text:{content:'wwwwwwwwww'}}
+
+10:09:28： 接收的数据{touser:'@all',msgtype:'text',text:{content:'wwwwwwwwww'}}
+
+14:39:40： 创建连接dddddd.
+
+14:39:43： dddddd:{touser:'@all',msgtype:'text',text:{content:'dddddddd'}}
+
+14:39:43： 接收的数据{touser:'@all',msgtype:'text',text:{content:'dddddddd'}}
+

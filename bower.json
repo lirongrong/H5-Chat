@@ -1,0 +1,20 @@
+{
+  "name": "chat",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "蓉蓉 李 <RR@DESKTOP-EAVLNT2>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "knockout": "v3.4.2"
+  }
+}

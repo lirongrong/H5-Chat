@@ -1,0 +1,80 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+    <div class="row">&nbsp;</div>
+    <div class="row" style="padding:10px 20px;">
+        <b id="userName">某某：</b>
+        <input type="text" id="txtMessage" style="width:500px;" />&nbsp;&nbsp;&nbsp;
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <hr />
+        </div>
+    </div>
+    <div class="row" style="padding:0px 20px;">
+        <ul id="ulMsg" class="list-group"></ul>
+    </div>
+</div>
+
+@section script
+    {
+    <script type="text/javascript">
+        var websocket;
+
+        function addMsg(un, msg) {
+            $("#ulMsg").prepend('<li>【' + new Date().toLocaleString() + '】' + un + '：<label>' + msg + '</label></li>');
+        }
+
+        $(function () {
+            var userName = window.localStorage.getItem("username");
+            $("#userName").text(userName + "：");
+            if (!userName) {
+                alert("请先登录用户名");
+                location.href = "/chat/login";
+            }
+            websocket = new WebSocket("ws://" + location.host + "/chatroom?un=" + userName + "&dev=1");
+
+            $("#txtMessage").keypress(function (event) {
+                if (event.keyCode == 13) {
+                    console.log(websocket.readyState);
+                    if (websocket.readyState == 1) {
+                        var message = $("#txtMessage").val();
+                        if (message) {
+                            websocket.send("{touser:'@@all',msgtype:'text',text:{content:'" + message + "'}}");
+                            $("#txtMessage").val("");
+                        } else {
+                            $("#txtMessage").focus();
+                        }
+                    } else {
+                        $("#ulMsg").prepend('<li>【' + new Date().toLocaleString() + '】客户端断开连接。');
+                        websocket = new WebSocket("ws://" + location.host + "/chatroom?un=" + userName + "&dev=1");
+                        $("#ulMsg").prepend('<li>【' + new Date().toLocaleString() + '】服务重连中..</li>');
+                    }
+                }
+            });
+
+            websocket.onopen = function (event) {
+                $("#ulMsg").prepend('<li>【' + new Date().toLocaleString() + '】服务已启动</li>');
+                console.log("websocket is opened.", event);
+            };
+            websocket.onclose = function (event) {
+                $("#ulMsg").prepend('<li>【' + new Date().toLocaleString() + '】服务已关闭</li>');
+                websocket = new WebSocket("ws://" + location.host + "/chatroom?un=" + userName + "&dev=1");
+                $("#ulMsg").prepend('<li>【' + new Date().toLocaleString() + '】服务重连中..</li>');
+                console.log("websocket is closed.", event);
+            };
+            websocket.onmessage = function (event) {
+                var data = event.data;
+                var result = JSON.parse(data);
+                console.log("websocket received message.", result);
+                addMsg(result.fromUser, result.text.content);
+            };
+            websocket.onerror = function (event) {
+                console.log("websocket is error.", event);
+            };
+
+        });
+    </script>
+}

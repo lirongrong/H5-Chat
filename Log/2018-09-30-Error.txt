@@ -1,0 +1,5 @@
+﻿10:08:39： Echo异常传入文本不符合Json格式!(null)。
+   at Util.JsonObject.Parse(String& jsonString) in C:\Users\RR\source\repos\Basic\1-SDK-Common\Util\Json\JsonObject.cs:line 66
+   at Util.JsonObject..ctor(String jsonString) in C:\Users\RR\source\repos\Basic\1-SDK-Common\Util\Json\JsonObject.cs:line 43
+   at Chat.WsUser.Excute(String data) in C:\Users\RR\source\repos\EWS2\4-App\4.0-Basic\Chat\Models\WsUser.cs:line 82
+   at Chat.WsUser.Echo() in C:\Users\RR\source\repos\EWS2\4-App\4.0-Basic\Chat\Models\WsUser.cs:line 60
